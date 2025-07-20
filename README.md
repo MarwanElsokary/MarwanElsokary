@@ -9,13 +9,13 @@
 - 📚 Passionate about **clean code**, **state management (Bloc/Cubit)**, and building real-world apps
 - 🌱 Constantly learning new things in **architecture, testing**, and **mobile performance optimization**
 - 💬 Ask me about anything related to Flutter, Firebase, REST APIs, or mobile app development
-- 📄 [Download My CV]([https://github.com/MarwanElsokary/MarwanElsokary/raw/main/marwan-cv.pdf](https://drive.google.com/file/d/16MxFzFj4E-GcYD-Bp3_UNYkkZy53Dwrj/view?usp=drive_link))
+[Click here to view or download my CV](https://drive.google.com/file/d/16MxFzFj4E-GcYD-Bp3_UNYkkZy53Dwrj/view?usp=drive_link)
 
 
 ---
 
 ### 📫 Let's Connect
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-MarwanElsokary-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/marwanelsokary](https://linkedin.com/in/marwan-elsokary-29726521b))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan--Elsokary-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marwan-elsokary-29726521b)
 [![Gmail](https://img.shields.io/badge/Email-marwanelsokary12234@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:marwanelsokary.dev@gmail.com)
 
 ---
