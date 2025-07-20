@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marwan Elsokary</h1>
-<h3 align="center">Flutter Developer | Firebase Integrator | Clean Architecture Enthusiast</h3>
+<h3 align="center">Flutter Developer </h1>
 
 ---
 
