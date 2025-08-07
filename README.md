@@ -46,7 +46,7 @@
 
 ### 📌 Featured Projects
 
-- 🔹 [Online Exam App](https://github.com/MarwanElsokary/online_exam_app) – A complete Flutter + Firebase exam system with authentication and role-based access
+- 🔹 [Online Exam App](https://github.com/MarwanElsokary/online_exam_app) – A complete Flutter + Using clean architecture 
 - 🔹 [Movie App](https://github.com/MarwanElsokary/movie_app) – Explore movies using clean architecture + Bloc
 
 ---
