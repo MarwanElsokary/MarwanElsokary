@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/google-maps.png" title="Google Maps API"/>
-  <img src="https://img.icons8.com/color/48/000000/payment.png" title="Payment Integration"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" title="REST API"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
@@ -61,12 +60,20 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🤝 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Marwan--Elsokary-blue?style=flat&logo=linkedin)](https://linkedin.com/in/marwan-elsokary-29726521b)
-[![Gmail](https://img.shields.io/badge/Email-marwanelsokary12234@gmail.com-red?style=flat&logo=gmail&logoColor=white)](mailto:marwanelsokary.dev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-MarwanElsokary-black?style=flat&logo=github)](https://github.com/MarwanElsokary)
+<p align="left">
+  <a href="https://linkedin.com/in/marwan-elsokary-29726521b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Marwan%20Elsokary-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:marwanelsokary12234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-marwanelsokary12234%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/MarwanElsokary">
+    <img src="https://img.shields.io/badge/GitHub-MarwanElsokary-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+> “Clean code always looks like it was written by someone who cares.” — Robert C. Martin
