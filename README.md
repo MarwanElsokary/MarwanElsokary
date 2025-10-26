@@ -20,7 +20,6 @@
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/google-maps.png" title="Google Maps API"/>
-  <img src="https://img.icons8.com/color/48/000000/payment.png" title="Payment Integration"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" title="REST API"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
