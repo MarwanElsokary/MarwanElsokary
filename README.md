@@ -20,6 +20,7 @@
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
   <img src="https://img.icons8.com/color/48/000000/google-maps.png" title="Google Maps API"/>
+  <img src="https://img.icons8.com/color/48/000000/payment.png" title="Payment Integration"/>
   <img src="https://img.icons8.com/color/48/000000/api.png" title="REST API"/>
   <img src="https://img.icons8.com/color/48/000000/git.png" title="Git"/>
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
@@ -37,6 +38,17 @@
 | **Flower Shop App** | E-commerce-style app with product browsing, cart, and authentication | Flutter, Firebase, Bloc |
 | **Movie App** | Explore and filter movies using clean architecture + Bloc | Flutter, REST API |
 | **Online Exam App** | Full online exam system with authentication and real-time data | Flutter, Firebase |
+
+---
+
+### 🧩 Currently Exploring & Tools I Work With
+
+- 🤖 **AI & Machine Learning integration** in mobile apps  
+- 🌐 **Flutter Web** and cross-platform optimization  
+- 🧰 **Team & project management tools:**  
+  - **Slack** for communication  
+  - **Jira** for task tracking and sprint planning  
+  - **Git & GitHub** for version control and collaboration  
 
 ---
 
