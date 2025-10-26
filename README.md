@@ -9,7 +9,7 @@
 - 📚 Passionate about **clean code**, **state management (Bloc/Cubit)**, and building real-world apps
 - 🌱 Constantly learning new things in **architecture, testing**, and **mobile performance optimization**
 - 💬 Ask me about anything related to Flutter, Firebase, REST APIs, or mobile app development
-- 📄 Know about my experiences : [Click here to view or download my CV](https://drive.google.com/file/d/16MxFzFj4E-GcYD-Bp3_UNYkkZy53Dwrj/view?usp=drive_link)
+- 📄 Know about my experiences : [Click here to view or download my CV]([https://drive.google.com/file/d/16MxFzFj4E-GcYD-Bp3_UNYkkZy53Dwrj/view?usp=drive_link](https://drive.google.com/file/d/19t3BlWwxx8PhIuEzElU53YzdmzM6mJVZ/view?usp=drive_link))
 
 
 ---
