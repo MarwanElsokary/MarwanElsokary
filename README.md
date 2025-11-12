@@ -1,22 +1,35 @@
 <h1 align="center">👋 Hi, I'm Marwan Elsokary</h1>
 <h3 align="center">💻 Flutter Developer | Building real-world apps with clean architecture</h3>
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff69b4&width=435&lines=Hi,+I'm+Marwan+Elsokary;Flutter+Developer;Building+real-world+apps)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff69b4&width=435&lines=Hi,+I'm+Marwan+Elsokary;Flutter+Developer;Building+real-world+apps" alt="Typing Effect"/>
+</p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently working on scalable mobile apps using **Flutter** & **Firebase**
-- 🧠 2+ years of experience delivering **production-level applications**
-- 🧩 Focused on **clean architecture**, **state management (Bloc/Cubit)**, and **performance optimization**
-- 💬 Passionate about creating seamless user experiences and well-structured codebases
+- 🔭 Currently working on scalable mobile apps using **Flutter** & **Firebase**  
+- 🧠 2+ years of experience delivering **production-level applications**  
+- 🧩 Focused on **clean architecture**, **state management (Bloc/Cubit)**, and **performance optimization**  
+- 💬 Passionate about creating seamless user experiences and well-structured codebases  
 - 📄 [View my CV](https://drive.google.com/file/d/19t3BlWwxx8PhIuEzElU53YzdmzM6mJVZ/view?usp=drive_link)
+
+---
+
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆-Pull%20Shark%20x2-brightgreen?style=for-the-badge" alt="Pull Shark x2"/>
+  <img src="https://img.shields.io/badge/🏆-Quickdraw-blue?style=for-the-badge" alt="Quickdraw"/>
+  <img src="https://img.shields.io/badge/🏆-YOLO-yellow?style=for-the-badge" alt="YOLO"/>
+</p>
 
 ---
 
 ### 🧠 Skills & Tools
 
-<p align="left">
+<p align="center">
   <img src="https://img.icons8.com/color/48/flutter.png" title="Flutter"/>
   <img src="https://img.icons8.com/color/48/dart.png" title="Dart"/>
   <img src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/>
@@ -26,11 +39,6 @@
   <img src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
 </p>
 
----
-
-![Pull Shark x2](https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-brightgreen?style=for-the-badge&logo=appveyor)
-![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-blue?style=for-the-badge&logo=appveyor)
-![YOLO](https://img.shields.io/badge/Achievement-YOLO-yellow?style=for-the-badge&logo=appveyor)
 ---
 
 ### 📱 Highlighted Projects
@@ -57,13 +65,17 @@
 
 ---
 
-![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanElsokary&show_icons=true&theme=radical&count_private=true&hide_title=false&hide=prs)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarwanElsokary&show_icons=true&theme=radical&count_private=true&hide_title=false&hide=prs" alt="GitHub Stats"/>
+</p>
 
 ---
 
 ### 🤝 Get in Touch
 
-<p align="left">
+<p align="center">
   <a href="https://linkedin.com/in/marwan-elsokary-29726521b" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
   </a>
