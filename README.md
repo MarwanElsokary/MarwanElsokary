@@ -28,6 +28,11 @@
 
 ---
 
+![Pull Shark x2](https://img.shields.io/badge/Achievement-Pull%20Shark%20x2-brightgreen?style=for-the-badge&logo=appveyor)
+![Quickdraw](https://img.shields.io/badge/Achievement-Quickdraw-blue?style=for-the-badge&logo=appveyor)
+![YOLO](https://img.shields.io/badge/Achievement-YOLO-yellow?style=for-the-badge&logo=appveyor)
+---
+
 ### 📱 Highlighted Projects
 
 | Project | Description | Tech Stack |
