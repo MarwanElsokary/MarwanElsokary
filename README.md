@@ -1,9 +1,6 @@
 <h1 align="center">👋 Hi, I'm Marwan Elsokary</h1>
 <h3 align="center">💻 Flutter Developer | Building real-world apps with clean architecture</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff69b4&width=435&lines=Hi,+I'm+Marwan+Elsokary;Flutter+Developer;Building+real-world+apps" alt="Typing Effect"/>
-</p>
 
 ---
 
@@ -14,16 +11,6 @@
 - 🧩 Focused on **clean architecture**, **state management (Bloc/Cubit)**, and **performance optimization**  
 - 💬 Passionate about creating seamless user experiences and well-structured codebases  
 - 📄 [View my CV](https://drive.google.com/file/d/19t3BlWwxx8PhIuEzElU53YzdmzM6mJVZ/view?usp=drive_link)
-
----
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆-Pull%20Shark%20x2-brightgreen?style=for-the-badge" alt="Pull Shark x2"/>
-  <img src="https://img.shields.io/badge/🏆-Quickdraw-blue?style=for-the-badge" alt="Quickdraw"/>
-  <img src="https://img.shields.io/badge/🏆-YOLO-yellow?style=for-the-badge" alt="YOLO"/>
-</p>
 
 ---
 
