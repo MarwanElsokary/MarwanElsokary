@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi, I'm Marwan Elsokary</h1>
 <h3 align="center">💻 Flutter Developer | Building real-world apps with clean architecture</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=ff69b4&width=435&lines=Hi,+I'm+Marwan+Elsokary;Flutter+Developer;Building+real-world+apps)
 
 ---
 
@@ -52,10 +53,6 @@
 ---
 
 ![Marwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarwanElsokary&show_icons=true&theme=radical&count_private=true&hide_title=false&hide=prs)
-
----
-
-![GitHub followers](https://img.shields.io/github/followers/MarwanElsokary?label=Follow&style=social)
 
 ---
 
