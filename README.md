@@ -13,6 +13,16 @@
 
 ---
 
+### 🏆 Achievements
+
+- 🥇 Built **AI-powered Fitness App (Smart Coach)** that calculates personalized macros and calories  
+- 📱 Successfully delivered **Medical Case Management System** for students, doctors, and supervisors  
+- 🚀 Developed **real-time delivery tracking app** with maps and live updates  
+- 🛠 Optimized Flutter apps for **performance and clean architecture**  
+- 👨‍💻 Mentored junior developers and collaborated in cross-functional teams  
+
+---
+
 ### 🧠 Skills & Tools
 
 <p align="left">
@@ -31,7 +41,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| **AI Fitness App** | Fitness & nutrition app featuring an AI Coach that calculates macros and calories | Flutter, Firebase, AI APIs |
+| **AI Fitness App (Smart Coach)** | Personal fitness & nutrition app featuring an **AI Coach** that calculates **macros, calories**, and provides workout guidance | Flutter, Firebase, AI APIs, Bloc/Cubit |
 | **Medical Case System** | Manages cases between students, doctors & supervisors with approvals and uploads | Flutter, Firebase, Bloc |
 | **Delivery Tracking App** | Real-time delivery tracking with maps, live location, and status updates | Flutter, Google Maps, Firebase |
 | **Flower Shop App** | E-commerce-style app with product browsing, cart, and authentication | Flutter, Firebase, Bloc |
@@ -69,8 +79,8 @@
   <a href="mailto:marwanelsokary12234@gmail.com">
     <img src="https://img.shields.io/badge/Email-marwanelsokary12234%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://github.com/MarwanElsokary">
-    <img src="https://img.shields.io/badge/GitHub-MarwanElsokary-black?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://wa.me/201159220605" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-+201159220605-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </p>
 
