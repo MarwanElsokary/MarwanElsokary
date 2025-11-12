@@ -13,16 +13,6 @@
 
 ---
 
-### 🏆 Achievements
-
-| 🏅 Achievement | Description |
-|----------------|-------------|
-| 🦈 Pull Shark x2 | Achieved double shark pull milestone |
-| 🎯 Quickdraw | Completed tasks with speed and accuracy |
-| 😎 YOLO | Took bold decisions in projects |
-
----
-
 ### 🧠 Skills & Tools
 
 <p align="left">
