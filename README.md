@@ -55,6 +55,10 @@
 
 ---
 
+![GitHub followers](https://img.shields.io/github/followers/MarwanElsokary?label=Follow&style=social)
+
+---
+
 ### 🤝 Get in Touch
 
 <p align="left">
