@@ -15,11 +15,11 @@
 
 ### 🏆 Achievements
 
-- 🥇 Built **AI-powered Fitness App (Smart Coach)** that calculates personalized macros and calories  
-- 📱 Successfully delivered **Medical Case Management System** for students, doctors, and supervisors  
-- 🚀 Developed **real-time delivery tracking app** with maps and live updates  
-- 🛠 Optimized Flutter apps for **performance and clean architecture**  
-- 👨‍💻 Mentored junior developers and collaborated in cross-functional teams  
+| 🏅 Achievement | Description |
+|----------------|-------------|
+| 🦈 Pull Shark x2 | Achieved double shark pull milestone |
+| 🎯 Quickdraw | Completed tasks with speed and accuracy |
+| 😎 YOLO | Took bold decisions in projects |
 
 ---
 
@@ -74,13 +74,13 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/marwan-elsokary-29726521b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Marwan%20Elsokary-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" title="LinkedIn"/>
   </a>
   <a href="mailto:marwanelsokary12234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-marwanelsokary12234%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.icons8.com/color/48/gmail.png" title="Email"/>
   </a>
   <a href="https://wa.me/201159220605" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-+201159220605-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+    <img src="https://img.icons8.com/color/48/whatsapp.png" title="WhatsApp"/>
   </a>
 </p>
 
