@@ -10,7 +10,7 @@
 - 🧠 2+ years of experience delivering **production-level applications**  
 - 🧩 Focused on **clean architecture**, **state management (Bloc/Cubit)**, and **performance optimization**  
 - 💬 Passionate about creating seamless user experiences and well-structured codebases  
-- 📄 [View my CV](https://drive.google.com/file/d/19t3BlWwxx8PhIuEzElU53YzdmzM6mJVZ/view?usp=drive_link)
+- 📄 [View my CV]([https://drive.google.com/file/d/19t3BlWwxx8PhIuEzElU53YzdmzM6mJVZ/view?usp=drive_link](https://drive.google.com/file/d/1IzTIioCWHQ5Bj14bXmE-v1TkQ5d_tCF2/view?usp=drive_link))
 
 ---
 
